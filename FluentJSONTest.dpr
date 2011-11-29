@@ -3,11 +3,6 @@ program FluentJSONTest;
 {$APPTYPE CONSOLE}
 
 uses
-  madExcept,
-  madLinkDisAsm,
-  madListHardware,
-  madListProcesses,
-  madListModules,
   SysUtils,
   VSoft.Fluent.JSON in 'VSoft.Fluent.JSON.pas';
 
